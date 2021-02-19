@@ -1,0 +1,25 @@
+{
+  "name": "REST-API-Nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadalics/REST-API-Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadalics/REST-API-Nodejs/issues"
+  },
+  "homepage": "https://github.com/muhammadalics/REST-API-Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
